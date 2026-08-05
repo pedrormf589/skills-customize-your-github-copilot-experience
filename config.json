@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "graph-route-algorithms",
+      "title": "Graph Route Algorithms",
+      "description": "Model routes as weighted graphs and compare BFS and Dijkstra for pathfinding.",
+      "path": "assignments/graph-route-algorithms",
+      "dueDate": "2026-08-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
